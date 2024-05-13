@@ -24,7 +24,7 @@ I'm Obinna Agim, a seasoned software engineer with a passion for crafting innova
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugwum&layout=donut-vertical)](https://github.com/Ugwum/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugwum&layout=pie)](https://github.com/Ugwum/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugwum&layout=pie)](https://github.com/Ugwum/github-readme-stats) -->
 <!--
 **Ugwum/Ugwum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
