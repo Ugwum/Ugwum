@@ -2,7 +2,7 @@
 
 I'm Obinna Agim, a seasoned software engineer with a passion for crafting innovative enterprise solutions, particularly in the Fintech domain.
 
-🔭 Currently, I'm diving deep into the world of distributed systems and microservices architecture, exploring how we can leverage cutting-edge technology to revolutionize financial services in Africa.
+🔭 Currently, I'm diving deep into the world of Generative AI, distributed systems and microservices architecture, exploring how we can leverage cutting-edge technology to revolutionize financial services.
 
 🌱 I'm currently learning about emerging trends in cloud-native technologies and DevOps practices to enhance the scalability and reliability of our systems.
 
